@@ -19,63 +19,62 @@
     "autor": 41
     }
   ]
-
-    "user":[
-        {
-        "username": "elusuario22",
-        "first_name": "eleppe",
-        "last_name": "elcacas",
-        "email": "fenrir43443@gmail.com",
-        "password": "pbkdf2_sha256$600000$dxXyL5haRUuzMhDqKpGHnc$fzb8tVxrfYFtklJL8UfPRGoPj/GVKmTRg2d+mHAx5Zw="
-        },
-          {
-        "username": "usuariorest",
-        "first_name": "firstnamesyees",
-        "last_name": "lastnameohyes",
-        "email": "email@ohyes.cl",
-        "password": "adminadmin"
-        },
-          {
-        "username": "Claudio",
-        "first_name": "",
-        "last_name": "",
-        "email": "cl.rodriguezo@duocuc.cl",
-        "password": "pbkdf2_sha256$600000$hmG10HyyNHNi5Wc2o6UxRH$mX3ehf5Ke3T8sDs/cyz72u6KYSD+hk0JyvDR/BijRk4="
-        },
-          {
-        "username": "alonso",
-        "first_name": "",
-        "last_name": "",
-        "email": "",
-        "password": "pbkdf2_sha256$600000$lFUzgOOjLQ6NzR2rhDHoyl$Rx1EMeAIQ869ScSWDGjOC7jASgOOxr4gv21IESjhgsY="
-        },
-          {
-        "username": "alonso2",
-        "first_name": "",
-        "last_name": "",
-        "email": "",
-        "password": "pbkdf2_sha256$600000$csOMyouWKcMNlwaza00DWR$PCnzFCOu74QfgwLVl+uQXgdNaBWZIZfC9dFSJdmDbjE="
-        },
-          {
-        "username": "claudio2",
-        "first_name": "",
-        "last_name": "",
-        "email": "",
-        "password": "pbkdf2_sha256$600000$xPZESgtJP8yzxPraq7e7Ol$qW7Kr/pVUkQveu9Vaos9VciKVgqVDFmP716aN4UF75Q="
-        },
-          {
-        "username": "cualquiera",
-        "first_name": "claudio",
-        "last_name": "rodriguez",
-        "email": "cl.rodriguezo@duocuc.cl",
-        "password": "pbkdf2_sha256$600000$DCcmkRoRDCSdAoqHqVAPjf$JhgW5fxaFdgvJa16HVzKJJ7nt4tav9y6eiGtfT5eX10="
-        },
-          {
-        "username": "elfenrir",
-        "first_name": "fenrir",
-        "last_name": "elgarrasucia",
-        "email": "cl.rodriguezo@duocuc.cl",
-        "password": "pbkdf2_sha256$600000$ASEOfFBgb5znREUiKLixpu$f7LbBURK1jWSSv1afzq/Hog7z839iTkm8dxMUfs5bas="
-        }
+"user":[
+  {
+    "username": "elusuario22",
+    "first_name": "eleppe",
+    "last_name": "elcacas",
+    "email": "fenrir43443@gmail.com",
+    "password": "pbkdf2_sha256$600000$dxXyL5haRUuzMhDqKpGHnc$fzb8tVxrfYFtklJL8UfPRGoPj/GVKmTRg2d+mHAx5Zw="
+    },
+      {
+    "username": "usuariorest",
+    "first_name": "firstnamesyees",
+    "last_name": "lastnameohyes",
+    "email": "email@ohyes.cl",
+    "password": "adminadmin"
+    },
+      {
+    "username": "Claudio",
+    "first_name": "",
+    "last_name": "",
+    "email": "cl.rodriguezo@duocuc.cl",
+    "password": "pbkdf2_sha256$600000$hmG10HyyNHNi5Wc2o6UxRH$mX3ehf5Ke3T8sDs/cyz72u6KYSD+hk0JyvDR/BijRk4="
+    },
+      {
+    "username": "alonso",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "password": "pbkdf2_sha256$600000$lFUzgOOjLQ6NzR2rhDHoyl$Rx1EMeAIQ869ScSWDGjOC7jASgOOxr4gv21IESjhgsY="
+    },
+      {
+    "username": "alonso2",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "password": "pbkdf2_sha256$600000$csOMyouWKcMNlwaza00DWR$PCnzFCOu74QfgwLVl+uQXgdNaBWZIZfC9dFSJdmDbjE="
+    },
+      {
+    "username": "claudio2",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "password": "pbkdf2_sha256$600000$xPZESgtJP8yzxPraq7e7Ol$qW7Kr/pVUkQveu9Vaos9VciKVgqVDFmP716aN4UF75Q="
+    },
+      {
+    "username": "cualquiera",
+    "first_name": "claudio",
+    "last_name": "rodriguez",
+    "email": "cl.rodriguezo@duocuc.cl",
+    "password": "pbkdf2_sha256$600000$DCcmkRoRDCSdAoqHqVAPjf$JhgW5fxaFdgvJa16HVzKJJ7nt4tav9y6eiGtfT5eX10="
+    },
+      {
+    "username": "elfenrir",
+    "first_name": "fenrir",
+    "last_name": "elgarrasucia",
+    "email": "cl.rodriguezo@duocuc.cl",
+    "password": "pbkdf2_sha256$600000$ASEOfFBgb5znREUiKLixpu$f7LbBURK1jWSSv1afzq/Hog7z839iTkm8dxMUfs5bas="
+    }  
     ]
 }
